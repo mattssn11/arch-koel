@@ -39,7 +39,7 @@ source aur.sh
 ####
 
 # download koel
-github.sh -df "github-download.zip" -dp "/tmp" -ep "/tmp/extracted" -ip "/opt/koel" -go "phanan" -gr "koel" -rt "source"
+github.sh -df "github-download.zip" -dp "/tmp" -ep "/tmp/extracted" -ip "/opt/koel" -go "X-Ryl669" -gr "kutr" -rt "source"
 
 # install koel
 cd /opt/koel && yarn install --unsafe-perm
